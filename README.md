@@ -12,8 +12,7 @@ This repository is for Capstone 2018-19.
 
 
 ## Team Members
-You can find information on our team, our roles, and our training plan(s) below.
-
+There were 3 other team members that were a part of this project.
 
 ### Wilkeson, Ashley (awilkeso)
 
