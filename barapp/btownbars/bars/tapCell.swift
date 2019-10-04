@@ -1,0 +1,20 @@
+//
+//  tapCell.swift
+//  capstone_btownbars
+//
+//  Created by Ashley Wilkeson on 4/7/19.
+//  Copyright © 2019 Ashley Wilkeson. All rights reserved.
+//
+
+import Foundation
+import UIKit
+
+class tapCell: UITableViewCell {
+
+    
+    @IBOutlet weak var barSpecial: UILabel!
+    
+    func setSpecial(special: Special) {
+        barSpecial.text = special.special
+    }
+}
